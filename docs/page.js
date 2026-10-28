@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-hash]').forEach(button=>button.addEventListener('click',async()=>{const status=document.querySelector('#copy-status');try{await navigator.clipboard.writeText(button.dataset.hash);status.textContent='نُسخت البصمة.';}catch{status.textContent='تعذّر النسخ التلقائي. يمكنك تحديد البصمة ونسخها يدوياً.';}}));

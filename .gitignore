@@ -1,0 +1,5 @@
+*.exe
+*.sqlite*
+.env*
+node_modules/
+.agent-bridge/
