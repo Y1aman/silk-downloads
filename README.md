@@ -2,13 +2,15 @@
 
 برنامج مجاني مغلق المصدر لـWindows x64. هذا المستودع للتنزيلات والوثائق العامة فقط.
 
-- [الإصدار التجريبي 0.4.31](https://github.com/Y1aman/silk-downloads/releases/tag/v0.4.31)
-- [دليل Windows](https://github.com/Y1aman/silk-downloads/releases/download/v0.4.31/README-Windows.md)
-- [ملاحظات الإصدار](https://github.com/Y1aman/silk-downloads/releases/download/v0.4.31/RELEASE-NOTES.md)
-- [بصمات التنزيل](https://github.com/Y1aman/silk-downloads/releases/download/v0.4.31/SHA256SUMS.txt)
+- [الإصدار التجريبي 0.4.32](https://github.com/Y1aman/silk-downloads/releases/tag/v0.4.32)
+- [دليل Windows](https://github.com/Y1aman/silk-downloads/releases/download/v0.4.32/README-Windows.md)
+- [ملاحظات الإصدار](https://github.com/Y1aman/silk-downloads/releases/download/v0.4.32/RELEASE-NOTES.md)
+- [بصمات التنزيل](https://github.com/Y1aman/silk-downloads/releases/download/v0.4.32/SHA256SUMS.txt)
 - [البلاغات العامة](https://github.com/Y1aman/silk-downloads/issues)
 
 واجهة محادثة محلية تجمع Codex وCopilot، مع اختيار مشارك أو عدة مشاركين، ومناقشة اختيارية بجولتين، وإرفاق الصور. تتوفر العربية والإنجليزية، والمظهر الفاتح والداكن وحسب الجهاز، مع حفظ الاختيار على جهازك. تبقى الرسائل وأسماء المشاريع بلغتها الأصلية.
+
+ابدأ من شاشة البداية أو الإعدادات باختيار Codex أو GitHub Copilot. يكتشف سِلْك Copilot المثبّت، ويتيح بدء تسجيل الدخول في المتصفح وفحص جاهزية الجلسة قبل المحادثة.
 
 يدعم Codex تنفيذ مهام معتمدة في نسخة مجلد دون اشتراط Git، ومراجعة الملفات وحفظها والتراجع. تعرض طلبات صلاحية الأوامر الإضافية للسماح مرة واحدة أو الرفض. Copilot متاح للمحادثة والقراءة؛ التحكم الموسع بالمجلدات وربط الحسابات والكتابة عبر ACP لم تفعّل بعد. ربط Claude غير متاح بعد.
 
